@@ -6,6 +6,8 @@
 
 项目采用逐阶段开发和实验验证的方式完成，记录了从理论分析、外设配置、控制算法实现到实际电机调试的完整过程。
 
+<img width="5712" height="4284" alt="4c57036421fe4d4f191cd2fe515e98d6" src="https://github.com/user-attachments/assets/749d3f3b-6a2d-467a-ad34-b2a1f20dce13" />
+
 ## 1. 硬件平台
 
 | 硬件       | 型号 / 配置      |
